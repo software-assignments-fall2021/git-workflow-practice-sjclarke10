@@ -10,3 +10,5 @@
 
 <p>The article highlights other women with insipring stories, including Kate Crawford who founded NYU's AI Now institute. This article licks to an article co-authored by Crawford, 
 https://ainowinstitute.org/discriminatingsystems.pdf, about AI and discusses the lack of diversity in the production of AI. <p>
+
+<p> Such an interesting article. Good choice, Sarah-Jane! -Gal Ben-Shushan (gbs278) <p>
